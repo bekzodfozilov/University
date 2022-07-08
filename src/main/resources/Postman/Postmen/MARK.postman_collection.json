@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "a2e5c3bc-f056-4a7a-8c51-0097e65abbfd",
+		"name": "MARK",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21718862"
+	},
+	"item": [
+		{
+			"name": "GETINFOSTUDENT",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
